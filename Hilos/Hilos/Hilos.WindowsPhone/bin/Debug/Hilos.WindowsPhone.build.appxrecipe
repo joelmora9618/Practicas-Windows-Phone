@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WKS831L</Machine>
+    <WindowsUser>JMora</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>acc910fc-1a05-483e-a23a-1c057b3e0797</PackageIdentityName>
+    <PackageIdentityPublisher>CN=JMora</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\Hilos.WindowsPhone.exe">
+      <PackagePath>Hilos.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\Hilos.WindowsPhone.xr.xml">
+      <PackagePath>Hilos.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\Example\HiloBasico.xbf">
+      <PackagePath>Example\HiloBasico.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\Example\PracticaEjemplo1.xbf">
+      <PackagePath>Example\PracticaEjemplo1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\De la facu\Practicas Windows Phone\Hilos\Hilos\Hilos.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

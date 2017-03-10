@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Hilos.Example.HiloBasico"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hilos.Example"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid Margin="10,30,10,10">
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+
+                <Button x:Name="btnIniciarProceso" Background="Gray" Height="70" Content="Iniciar Proceso" Click="btnIniciarProceso_Click"></Button>
+                <Button x:Name="btnMostrarMensaje" Background="Gray" Height="70" Content="Mostrar Mensaje" Click="btnMostrarMensaje_Click"></Button>
+                <Button x:Name="btnClear" Background="Gray" Height="70" Content="Borrar" Click="btnClear_Click"></Button>
+
+                <TextBlock x:Name="tbMensaje" FontSize="20" FontStyle="Normal" FontWeight="ExtraBold" Foreground="Red"></TextBlock>
+                <TextBox x:Name="tb1" BorderBrush="Black" BorderThickness="2"></TextBox>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Page>

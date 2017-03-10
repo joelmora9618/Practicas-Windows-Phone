@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Hilos.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hilos"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid Margin="10,30,10,10">
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch">
+
+                <Button x:Name="btnHiloBasico" Background="Gray" Height="70" Width="auto" HorizontalAlignment="Stretch" Content="Hilo Basico 1" Click="btnHiloBasico_Click"></Button>
+                <Button x:Name="btnPractica1" Background="Gray" Height="70" Width="auto" HorizontalAlignment="Stretch" Content="Ejemplo 1 Practica" Click="btnPractica1_Click"></Button>
+                <Button x:Name="btnClear" Background="Gray" Height="70" Width="auto" HorizontalAlignment="Stretch" Content="Ejemplo 3"></Button>
+
+            </StackPanel>
+            
+        </Grid>
+
+    </Grid>
+</Page>

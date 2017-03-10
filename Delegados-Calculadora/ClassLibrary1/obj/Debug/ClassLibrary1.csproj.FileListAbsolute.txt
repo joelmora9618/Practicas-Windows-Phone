@@ -1,0 +1,17 @@
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\bin\Debug\ClassLibrary1.pri
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\priconfig.xml
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\priconfig.xml.intermediate
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\layout.resfiles
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\layout.resfiles.intermediate
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\resources.resfiles
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\resources.resfiles.intermediate
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\pri.resfiles
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\pri.resfiles.intermediate
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\qualifiers.txt
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\qualifiers.txt.intermediate
+C:\De la facu\Practicas Windows Phone\Delegados\ClassLibrary1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
